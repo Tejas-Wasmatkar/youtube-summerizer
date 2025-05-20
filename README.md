@@ -14,10 +14,10 @@ python -m venv ai_projects
 
 Install required dependencies using 
 
-**pip install -r requirements.txt**
+**pip install -r requirements.txt** 
 
 **Step 2: Run Ollama**
-Use command **ollama run llama3**
+Use command **ollama run llama3** 
 
 **Step 3: Run flask Application**
 Use command **python main.py**
